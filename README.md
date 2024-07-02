@@ -18,8 +18,8 @@ This project contains a Python script that converts a grayscale image to a C/C++
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/yourrepository.git
-    cd yourrepository
+    git clone https://github.com/jefg89/imgheader.git
+    cd imgheader
     ```
 
 2. Install the required Python packages:
