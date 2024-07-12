@@ -36,3 +36,8 @@ Run the script with the path to the image file and the desired mode (`grayscale`
 
 ```sh
 python generate_header.py path_to_your_image.png --mode binary
+```
+To reconstruct:
+
+```sh
+python reconstruct.py output_image.png --width 100 --height 100 --mode binary --file path_to_your_file.h
